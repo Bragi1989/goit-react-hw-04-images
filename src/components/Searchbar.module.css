@@ -1,0 +1,23 @@
+.searchbar {
+    display: flex;
+    height: 50px;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+}
+.searchButton {
+    background-color: rgb(211, 77, 171);
+    color: aliceblue;
+    height: 30px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.searchButton:hover,
+.searchButton:focus {
+    background-color: rgb(193, 219, 43);
+}
+
+.input {
+    width: 400px;
+    height: 30px;
+}

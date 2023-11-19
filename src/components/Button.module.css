@@ -1,0 +1,15 @@
+.loadButton {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.loadButton:hover,
+.loadButton:focus {
+    background-color: aqua;
+}
